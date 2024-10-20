@@ -1,0 +1,9 @@
+python-telegram-bot==13.14
+SQLAlchemy
+python-dotenv
+alembic
+scikit-learn
+nltk
+pandas
+apscheduler
+joblib
